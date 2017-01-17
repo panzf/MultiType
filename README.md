@@ -1,0 +1,2 @@
+# MultiType
+init commit
